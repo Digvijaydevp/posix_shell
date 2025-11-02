@@ -1,12 +1,8 @@
-Here is a revised version of your `README.md` with improved formatting, clearer writing, and a more professional structure.
-
----
-
-# Advanced Operating Systems: A POSIX Shell Implementation
+# A POSIX Shell Implementation
 
 ## Overview
 
-This project is a custom POSIX-compliant shell, built for an Advanced Operating Systems curriculum. It features a core loop that parses and executes user commands, supporting essential shell functionalities like I/O redirection, command pipelines, background processes, and signal handling.
+This project is a custom POSIX-compliant shell. It features a core loop that parses and executes user commands, supporting essential shell functionalities like I/O redirection, command pipelines, background processes, and signal handling.
 
 ## ✨ Features
 
